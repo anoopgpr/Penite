@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064364226013",
+    "project_id": "penite-8f34f",
+    "storage_bucket": "penite-8f34f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064364226013:android:b9c44739c2b29b2a973234",
+        "android_client_info": {
+          "package_name": "com.mobiquest.penite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064364226013-5hv297brlqgiv7uaec4anntahdibo32m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkuUUTxErF8AYe6qvjjjnliOuflgE642k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064364226013-5hv297brlqgiv7uaec4anntahdibo32m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
